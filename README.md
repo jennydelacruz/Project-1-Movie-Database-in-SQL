@@ -3,20 +3,18 @@ In this project, I investigated a Relational Database, using PostgreSQL, as part
 
 This project allowed me to practice the data analysis process; starting by asking relevant questions, running appropriate SQL queries and finishing by sharing my findings through visualizations desgined in MS Power Point. SQL was used to explore a database related to movie rentals. I wrote SQL code to run SQL queries and answered some key questions about the database. 
 
-The Database contained 15 tables:
-actor – stores actors data including first name and last name.
-film – stores film data such as title, release year, length, rating, etc.
-film_actor – stores the relationships between films and actors.
-category – stores film’s categories data.
-film_category- stores the relationships between films and categories.
-store – contains the store data including manager staff and address.
-inventory – stores inventory data.
-rental – stores rental data.
-payment – stores customer’s payments.
-staff – stores staff data.
-customer – stores customer data.
-address – stores address data for staff and customers
-city – stores city names.
-country – stores country names.
+The Queries specifications to be met were: 
+1) All SQL queries run without errors and produce the intended results.
+2) Each SQL query needs to include one or more explicit JOINs. The JOIN or JOINs should be necessary to the query.
+3) Each SQL query needs to include one or more aggregations. This could be a COUNT, AVG, SUM, or other aggregation
+4) At least 2 of the 4 SQL queries need to include either a subquery OR a CTE.
+5) At least 1 of the 4 queries should use a Window Function.
+6) The SQL queries are well formatted and use aliases.
+
+While the Visualizations specifications were:
+1) Each slide should have a question and an appropriate visualization descriptions to address the question. 
+2) All visualizations should make logical sense and provide accurate analysis based on their query results.
+3) All visualizations include a title and axis labels, have a legend where applicable, and are easily understood.
+
 
 Database source: https://www.postgresqltutorial.com/postgresql-sample-database/
