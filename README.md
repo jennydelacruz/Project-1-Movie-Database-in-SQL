@@ -17,4 +17,5 @@ While the Visualizations specifications were:
 3) All visualizations include a title and axis labels, have a legend where applicable, and are easily understood.
 
 
+Programming for Data Science with Python: https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
 Database source: https://www.postgresqltutorial.com/postgresql-sample-database/
