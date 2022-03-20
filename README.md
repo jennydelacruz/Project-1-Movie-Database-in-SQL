@@ -1,4 +1,4 @@
-# SQL-project1
+# Movie Database in SQL
 In this project, I investigated a Relational Database, using PostgreSQL, as part of Udacity's Nanodegree "Programming for Data Science". This project was submitted to a Udacity reviewer, and was checked against specific requirements to pass the programme. 
 
 This project allowed me to practice the data analysis process; starting by asking relevant questions, running appropriate SQL queries and finishing by sharing my findings through visualizations desgined in MS Power Point. SQL was used to explore a database related to movie rentals. I wrote SQL code to run SQL queries and answered some key questions about the database. 
