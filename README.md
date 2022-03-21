@@ -1,3 +1,8 @@
+# To view the results see the pdf files in repo
+
+https://github.com/jennydelacruz/Project-1-Movie-Database-in-SQL/blob/main/SQL_visualizations.pdf
+https://github.com/jennydelacruz/Project-1-Movie-Database-in-SQL/blob/main/dvd-rental-erd-2.pdf
+
 # Movie Database in SQL
 In this project, I investigated a Relational Database, using PostgreSQL, as part of Udacity's Nanodegree "Programming for Data Science". This project was submitted to a Udacity reviewer, and was checked against specific requirements to pass the programme. 
 
